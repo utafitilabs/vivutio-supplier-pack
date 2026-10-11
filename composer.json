@@ -1,0 +1,22 @@
+{
+    "name": "vivutio/supplier-pack",
+    "type": "symfony-pack",
+    "description": "What a supplier of vivutio installs: the camps, lodges and hotels it runs, and their bookings.",
+    "keywords": [
+        "accommodation",
+        "pack",
+        "supplier",
+        "tourism",
+        "vivutio"
+    ],
+    "license": "AGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Ezekiel Mjema",
+            "homepage": "https://github.com/eemjema"
+        }
+    ],
+    "require": {
+        "vivutio/property-module": "*"
+    }
+}
